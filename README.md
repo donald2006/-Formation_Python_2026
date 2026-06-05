@@ -22,7 +22,7 @@ Basés sur le livre **"Python au lycée"** tome 1 & 2 :
 
 ### 🤖 Exploration IA — Computer Vision
 > Code généré par IA pour découvrir la détection de mains par webcam (OpenCV + MediaPipe)
-> Decouvrie des librairie utuliser en Data
+> Decouvrir des librairie utuliser en Data
 
 ---
 
