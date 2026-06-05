@@ -3,42 +3,49 @@
 
 Mes exercices et projets Python — élève au lycée qui apprend depuis zéro.
 
+
 ---
 
-## 📁 Contenu du dépôt
+## ✍️ Exercices — Bases (fait par moi)
 
-### ✍️ Mes exercices (fait par moi)
-Basés sur le livre **"Python au lycée"** tome 1 & 2 :
+Basés sur le livre *"Python au lycée"* d'Arnaud Bodin :
 
-| Fichier : Ce que j'apprends :
+| Fichier | Concept appris |
 |---|---|
 | `Variable.py` | Variables et types de données |
-| `boucle_for.py` | Boucles et répétitions |
-| `Fonctions.py` | Créer et utiliser des fonctions |
-| `Turtle.py` | Dessiner avec la tortue Python |
-| `sierpinski.py` | Fractale de Sierpiński |
-| `plusieurs_tortues.py` | Animations avec plusieurs tortues |
-| `dessiner_axes.py` | Dessiner des axes mathématiques |
-
-### 🤖 Exploration IA — Computer Vision
-> Code généré par IA pour découvrir la détection de mains par webcam (OpenCV + MediaPipe)
-> Decouvrir des librairie utuliser en Data
+| `boucle_for.py` | Boucles et itérations |
+| `boucle_complique.py` | Boucles imbriquées |
+| `Fonctions.py` | Définition et appel de fonctions |
+| `Turtle.py` | Dessin avec le module Turtle |
+| `sierpinski.py` | Récursivité — fractale de Sierpiński |
+| `plusieurs_tortues.py` | Animations multi-objets |
+| `dessiner_axes.py` | Représentation graphique |
+| `table_multiplication_turtle.py` | Maths + visualisation |
 
 ---
 
-## 📚 Ressources utilisées
+## 🤖 Exploration — Computer Vision
 
-- 📖 Python au lycée — tome 1 *(exercices de base)*
-- 📖 Python au lycée — tome 2 *(approfondissement)*
-- 📖 Apprendre à programmer avec Python 3
+> Code généré par IA pour explorer la détection de mains en temps réel.  
+> Librairies utilisées : **OpenCV**, **MediaPipe**
 
 ---
 
-## Mes Objectifs :
+## 📚 Ressources
+
+| Livre | Usage |
+|---|---|
+| Python au lycée — tome 1 | Exercices de base |
+| Python au lycée — tome 2 | Approfondissement |
+| Apprendre à programmer avec Python 3 | Référence générale |
+
+---
+
+## 🎯 Objectifs
 
 - [x] Installer Python et démarrer
-- [ ] Finir les exercices du tome 1
-- [ ] Créer un projet Python complet de A à Z
-- [ ] Apprendre la programmation orientée objet
-- [ ] Finir les exercice du tom 2
-- [ ] Créer un projet grand Python complet 
+- [ ] Terminer tous les exercices du tome 1
+- [ ] Terminer tous les exercices du tome 2
+- [ ] Créer un premier projet Python complet
+- [ ] Maîtriser la programmation orientée objet (POO)
+- [ ] Réaliser un projet Python avancé
